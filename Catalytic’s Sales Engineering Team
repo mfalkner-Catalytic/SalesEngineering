@@ -1,0 +1,110 @@
+Catalytic’s Sales Engineering Team
+
+A Framework
+
+Abstract
+The Sales Engineering Team within Catalytic is the technical partner to Sales Managers. As expert Catalytic users, Sales Engineers build custom demos, gather technical requirements and guide the customer to the best solution. This evolving document outlines a framework for the Sales Engineering Team including its responsibilities, skills, and interfaces with other departments like Sales, Product, Engineering, and Solution Delivery.
+Knowledge & Skills of Sales Engineers
+Sales Engineers are product experts with a deep technical understanding of Catalytic, the competitive landscape, and common enterprise software solutions. Simultaneously, Sales Engineers need problem solving and communication skills to quickly understand the customers needs and guide the customer to the optimal solution always with the goal to close the sale. The below list, which will grow and evolve over time, provides an overview of the general knowledge  and skills a Sales Engineer brings to Catalytic. The next section shows how these are applied in the sales cycle.
+
+Understand and apply all Catalytic actions, integrations, and functionalities
+Expert Catalytic process automation building skills
+Build and present customer-relevant demos
+Partner with Sales Managers to drive sale
+Solution-driven thinking
+Convey the benefits of Catalytic
+Basic programming skills
+Explain Catalytic architecture and security measures
+Lead workshops to identify automation opportunities
+Knowledge of automation market and competitors
+Understand other commonly used enterprise software
+Independently assess automation feasibility and effort in cooperation with our clients
+Research customer company and industry
+
+
+Sales Engineers’ role in the Sales Cycle
+In close partnership with the Sales Managers, Sales Engineers are typically part of every pre-sales interaction of the Sales Manager with the customer. Outlined below is the Sales Engineers’ role in the general sales stages: Awareness, Discovery, Selling, Agreement, Closed.
+Awareness
+During the Awareness stage, when a potential new customer has been identified, Sales Engineering consults with the Sales Manager how to best approach the customer considering where our solution will have the best fit. By researching the company, its industry, and targeted department, Sales Engineers advise Sales Managers on which general demo to show or which example use cases to introduce. During this stage, Sales Engineers get a good understanding of the customer pains and requirements and can answer initial technical questions and gather any customer requirements. 
+Awareness tl,dr:
+Research potential customer
+Deliver general demo
+Field initial technical questions
+Discovery
+During Discovery, Sales Engineers discover and understand the needs of the customer in depth. Sales Engineers ask questions and gather technical requirements. Herein included are e.g. other systems the customer is using, volume and frequency of the proposed process, quality and structure of the process data. Sales Engineers will guide the customer to the best solution by proposing or demoing alternative solutions. The Sales Engineer can speak to Catalytic’s architecture, security standards, technical boundaries, development process or integration requirements. To support the customer in identifying fitting projects, Sales Engineers can lead automation idea brainstorming workshops and help with Return-on-Investment estimations to show the fast benefits of Catalytic automations. Depending on the complexity of the proposed project, Sales Engineers work closely with Product and Engineering during the Discovery phase.  
+Discovery tl,dr:
+Discover and understand customer need
+Gather technical requirements
+Guide customer to best solution
+Showcase functionality
+Lead automation idea brainstorming workshops
+Interact with Product and Engineering
+Selling
+The Selling phase is all about showing our solution. Sales Engineers, as expert Catalytic builders, can quickly build prototypes or tailored demos showcasing basic functionality to convey to the customer the feasibility of their project. Sales Engineers lead the demo and cover all technical aspects of the solution. Based on the requirements gathered during Discovery, the Sales Engineer scopes the proposed project, writes a Statement of Work (SOW). The Sales Manager, in partnership with the Sales Engineer, prices the proposal.  Any SOW should be approved by Solution Delivery before sharing with the customer.
+Selling tl,dr:
+Showcase tailored demo
+Scope project
+Write SOW
+Agreement
+This phase belongs mostly to the Sales Manager. The Sales Engineer will tackle any technical objections and make sure no new technical requirements are added to the agreement without the approval of Sales Engineering and/or Solution Delivery.
+Agreement tl;dr:
+Field last technical objections
+Closed
+After the close of the contract, the Sales Engineer ensures a final hand-off to Solution Delivery and answers last questions about the project before moving on to the next opportunity.
+Closed tl;dr:
+Hand-off to Solution Delivery
+
+Sales Managers and Sales Engineers: A Partnership to Success 
+Selling a technical product like Catalytic is a team effort. Therefore, Sales Managers and Sales Engineers partner closely to drive the sale. Naturally, Sales Managers focus on the commercial part of the sale while Sales Engineers are the technical experts in front of the customer. Below table shows the key responsibilities of both Sales Manager and Sales Engineer and cooperative responsibilities.
+
+
+Sales Manager
+Cooperation
+Sales Engineer
+Present larger value proposition
+Manage customer relationship
+Get introductions to new groups
+Identify budget & timeline
+Pricing
+Contracting
+
+Guide customer to the best solution
+Complete RFx
+
+Deliver demos
+Build tailored demos
+Gather technical requirements
+Identify technical roadblocks and discuss with Sales Manager
+Write SOW
+Clear SOW with Solution Delivery
+
+It is preferable for one Sales Engineer to be teamed up with not more than 3 Sales Managers. These partnerships should last over a for a longer period of time to allow for a better understanding of the sales approach of either individual. The Head of Sales Engineering can help prioritize overlapping requests for a Sales Engineer in close communication with the Head of Sales. The Head of Sales Engineering also holds close relationships with the Engineering and Product departments to keep up-to-date with new functionality and system boundaries. 
+
+Trusted Advisor: Aspirational goal for the Sales Engineering Team
+Most goals for Sales Engineers such as delivering relevant demos, answering technical questions, scoping projects are clearly defined. But to meet and excel in these tangible goals, Sales Engineers should aspire to the higher, overarching goal of becoming Trusted Advisors. According to John Care, you can measure trust by Credibility, Reliability, Intimacy, Self-Orientation and Positivity (CRISP) using the following mathematical formula.
+
+T=C+R+ISP
+
+Below, we are looking at the five characteristics in this formula and how they apply to Sales Engineers at Catalytic and their ability to become Trusted Advisors:
+
+Credibility
+By showing a deep understanding of the technical aspect of Catalytic in line with a problem solving attitude, Sales Engineers build credibility with customers. This might also mean being open and honest with customers when Catalytic might not be the right solution for a particular problem they have. This can be an opportunity to gain trust by suggesting a better suited tool and then moving on to find a Catalytic use case.
+
+Reliability
+Stand by your word! Catalytic Sales Engineers provide customers and Sales Managers with realistic timelines and stick to what they promised.
+
+Intimacy
+Through research, empathy and interpersonal skills, Catalytic Sales Engineers know and understand their customers and the industry they are in. 
+
+Self-Orientation
+Catalytic Sales Engineers always put the customer first. When the customer wins, we win. 
+
+Positivity
+Sales Engineers at Catalytic look for solutions instead of problems. While Sales Engineers always consider possible roadblocks or risks, they use their internal network to find a solution or work-around. 
+To-be-defined
+What is and is not part of a tailored-demo? How much effort should go into it?
+How to deal with customer actions/hosted actions
+Sales Engineers’ KPIs
+Hand-off meeting to Solution Delivery
+Infrastructure for SE org over next 6 months
+SE and AM for custom and configured (RACI chart)
